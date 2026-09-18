@@ -65,7 +65,7 @@ header {
 /* Hero Section (Gagamitin ang hero-bg.png) */
 .hero {
     min-height: 100vh;
-    background: linear-gradient(rgba(11,19,43,0.3), rgba(11,19,43,0.8)), url('Hero Section.png') no-repeat center center/cover;
+    background: linear-gradient(rgba(11,19,43,0.3), rgba(11,19,43,0.8)), url('Mock Up.png') no-repeat center center/cover;
     text-align: center;
     display: flex;
     flex-direction: column;
